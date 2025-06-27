@@ -1,3 +1,2 @@
-function notifyMe() {
-  alert("Thanks! We'll let you know when we're live.");
-}
+// Example: console log to confirm script loading
+console.log('Main JS loaded');
