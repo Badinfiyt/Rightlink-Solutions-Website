@@ -1,1 +1,1 @@
-Access the website on rightlinksolutions.com
+Access the website on [rightlinksolutions.com]
